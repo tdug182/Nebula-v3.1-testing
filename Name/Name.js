@@ -1,1 +1,1 @@
-export const pageTitle = "Nebula v3.2";
+export const pageTitle = "Nebula v2.2";
